@@ -1,0 +1,10 @@
+name: cop-analysis
+title: Centre de Pression - Analyse Posturographique
+username: po-morin
+account: po-morin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16452964
+bundleId: 11463994
+url: https://po-morin.shinyapps.io/cop-analysis/
+version: 1
